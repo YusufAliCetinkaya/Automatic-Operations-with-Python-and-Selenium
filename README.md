@@ -1,6 +1,4 @@
-# Proje Adı
-
-Python ve Selenium ile Otomatik İşlemler
+# Python ve Selenium ile Otomatik İşlemler
 
 ## Teknolojiler
 
