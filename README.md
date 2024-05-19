@@ -17,4 +17,4 @@ Repoyu klonlayın:
 Tarayıcı sürümüne göre driver için: 
 https://developer.chrome.com/docs/chromedriver/downloads
 
-Site url örn: https://alanadi.com/
+Site url örn: https://ytnk.tv/
