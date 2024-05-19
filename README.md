@@ -15,3 +15,6 @@ Projenin geliştirilmesinde kullanılan teknolojiler ve araçlar şunlardır:
 Repoyu klonlayın:
    ```sh
    git clone https://github.com/YusufAliCetinkaya/Automatic-Operations-with-Python-and-Selenium.git
+
+## Tarayıcı Sürümüne göre driver indirmek için:
+https://developer.chrome.com/docs/chromedriver/downloads
