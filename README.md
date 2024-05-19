@@ -16,5 +16,8 @@ Repoyu klonlayın:
    ```sh
    git clone https://github.com/YusufAliCetinkaya/Automatic-Operations-with-Python-and-Selenium.git
 
-## Tarayıcı Sürümüne göre driver indirmek için:
-https://developer.chrome.com/docs/chromedriver/downloads
+## Kurulum
+Repoyu klonlayın:
+   ```sh
+   git clone https://github.com/YusufAliCetinkaya/Automatic-Operations-with-Python-and-Selenium.git
+dfdfdsfdsfsdf      
