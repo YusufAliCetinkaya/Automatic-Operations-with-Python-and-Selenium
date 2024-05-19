@@ -29,7 +29,7 @@ link.click()
 girisyap = driver.find_element(By.CLASS_NAME, "btnGiris")
 girisyap.click()
 
-# Explicit wait kullanarak e-posta ve şifre alanlarının görünür olmasını
+# Explicit wait kullanarak e-posta ve şifre alanlarının görünür olmasını bekle
 eposta = wait.until(EC.visibility_of_element_located((By.ID, "TxtEposta")))
 sifre = wait.until(EC.visibility_of_element_located((By.ID, "TxtSifre")))
 # E-posta ve şifre girişi
@@ -54,8 +54,3 @@ while True:
     if sonraki_konu_button:
         # Sonraki Konu butonuna tıklama
         sonraki_konu_button[0].click()
-
-# Kullanıcı girişi tamamlandıktan sonra bir çıktı yazdırın
-print("Giriş başarılı. Programı kapatmak için Enter tuşuna basın...")
-# Kullanıcının programı kapatmasını bekleyin
-input()
